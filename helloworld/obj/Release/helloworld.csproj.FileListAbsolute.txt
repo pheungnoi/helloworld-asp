@@ -1,0 +1,8 @@
+C:\devops\301\helloworld-asp\helloworld\bin\helloworld.dll.config
+C:\devops\301\helloworld-asp\helloworld\bin\helloworld.dll
+C:\devops\301\helloworld-asp\helloworld\bin\helloworld.pdb
+C:\devops\301\helloworld-asp\helloworld\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\devops\301\helloworld-asp\helloworld\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\devops\301\helloworld-asp\helloworld\obj\Release\helloworld.csprojResolveAssemblyReference.cache
+C:\devops\301\helloworld-asp\helloworld\obj\Release\helloworld.dll
+C:\devops\301\helloworld-asp\helloworld\obj\Release\helloworld.pdb
